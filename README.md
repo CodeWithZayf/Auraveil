@@ -155,24 +155,11 @@ Contributions, testing, and feedback are welcome:
 
 ---
 
-## 📜 License
-
-Open-source (license to be finalized).
-
----
-
 ## 🧠 Philosophy
 
 Auraveil is built around one idea:
 
 > **Enterprise-grade security should not require enterprise budgets or sacrificing privacy.**
-
----
-
-## 📬 Contact
-
-**Team InnovAuraz**  
-GitHub: https://github.com/InnovAuraz  
 
 ---
 
