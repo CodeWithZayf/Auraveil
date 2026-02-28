@@ -12,8 +12,6 @@ It is designed for personal devices, prioritizing **early threat detection, tran
 
 ![Visualization of the codebase](./diagram.svg)
 
-> This diagram is auto-generated on every push to `main` using the [GitHub Repo Visualizer](https://github.com/githubocto/repo-visualizer). Each circle represents a file or folder — color indicates file type, size indicates file size.
-
 ---
 
 ## 🚀 What Auraveil Does
