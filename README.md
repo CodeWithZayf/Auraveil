@@ -4,7 +4,15 @@
 Auraveil is an on-device cybersecurity system that detects threats by **how software behaves**, not by known malware signatures.  
 It is designed for personal devices, prioritizing **early threat detection, transparency, and user privacy**.
 
-> If software lies, behavior doesn’t.
+> If software lies, behavior doesn't.
+
+---
+
+## 📊 Codebase Visualization
+
+![Visualization of the codebase](./diagram.svg)
+
+> This diagram is auto-generated on every push to `main` using the [GitHub Repo Visualizer](https://github.com/githubocto/repo-visualizer). Each circle represents a file or folder — color indicates file type, size indicates file size.
 
 ---
 
@@ -16,7 +24,7 @@ Auraveil continuously monitors system activity and uses behavioral analysis to:
 - Flag stealthy background malware
 - Operate fully offline with **zero cloud dependency**
 
-All analysis happens **locally on the user’s device**.
+All analysis happens **locally on the user's device**.
 
 ---
 
@@ -60,7 +68,7 @@ Auraveil is built as a modular system:
 4. **Response & Control Layer** – Alerts or intervenes based on severity  
 5. **User Dashboard** – Transparency and manual control  
 
-All components run locally on the user’s device.
+All components run locally on the user's device.
 
 ---
 
