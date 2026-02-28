@@ -36,3 +36,7 @@ frontend/tsc_errors.txt
 
 # Logs
 *.log
+
+Plan.md
+Implementation.md
+audit_report.md
